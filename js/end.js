@@ -1,4 +1,3 @@
-ß;
 const score = JSON.parse(localStorage.getItem("score")); // Get the current score
 const highScores = JSON.parse(localStorage.getItem("highScore") || "[]"); // Get high scores or initialize an empty array
 const scoreElement = document.querySelector("p"); // Correct selector
