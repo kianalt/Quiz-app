@@ -87,3 +87,5 @@ Save High Scores:
 Enter your name and click "Save" to store your score.
 
 View the leaderboard on the high scores page.
+
+https://quiz-app-sepia-nine.vercel.app/
